@@ -6,7 +6,8 @@ ZetCode Tkinter tutorial
 
 This script shows a simple window
 on the screen.
-
+We have used tkinter to shows a simple window
+on the screen.
 Author: Jan Bodnar
 Last modified: July 2017
 Website: www.zetcode.com
